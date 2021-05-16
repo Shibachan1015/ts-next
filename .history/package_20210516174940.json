@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "test": "jest --env=jsdom --verbose"
+    
   },
   "dependencies": {
     "next": "10.2.0",
